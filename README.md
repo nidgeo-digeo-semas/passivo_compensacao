@@ -1,8 +1,11 @@
 # METODOLOGIA PARA CÁLCULO DO PASSIVO DE RESERVA LEGAL NO ESTADO DO PARÁ
 
-## 📌 Contexto
+## 1. Resumo Executivo
 
-Samuel da Costa dos Santos
+- **Título do Projeto:** Cálculo do Passivo de Reserva Legal no Estado do Pará
+- **Autor:** [Samuel da Costa dos Santos](https://github.com/samuel-c-santos)
+- **Data:** 03/12/2024
+- **Versão:** 1.0
 
 ## 📌 Contexto
 
