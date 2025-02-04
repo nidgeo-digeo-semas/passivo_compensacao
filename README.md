@@ -33,12 +33,17 @@ A primeira etapa do estudo consistiu na elaboração de uma base de cálculo par
 Com base nas exigências legais, cada tipologia foi associada a um percentual mínimo de RL, conforme demonstrado na Tabela 1.
 Tabela 1 - Percentual mínimo de Reserva Legal por tipologia
 
-| Tipologia         | Reserva Mínima (%) |
-|------------------|------------------|
-| Floresta 80%    | 80               |
-| Floresta 50%    | 50               |
-| Cerrado         | 35               |
-| Campos Gerais   | 20               |
+<div align="center">
+
+| Tipologia       | Reserva Mínima (%) |
+|----------------|------------------|
+| Floresta 80%  | 80               |
+| Floresta 50%  | 50               |
+| Cerrado       | 35               |
+| Campos Gerais | 20               |
+
+</div>
+
 
 A base final gerada foi armazenada no esquema 'visoes' do banco de dados, sob o nome 'tipologia_mzee_final'. A distribuição espacial das tipologias vegetais no Estado do Pará pode ser observada na Figura 1, onde são representadas as categorias de cobertura do solo utilizadas na definição das áreas mínimas de Reserva Legal.
 
